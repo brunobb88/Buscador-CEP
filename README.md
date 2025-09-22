@@ -18,12 +18,12 @@ Um buscador de endereços simples e elegante que consome a API do ViaCEP.
 ## 🌐 Acesse o Projeto
 
 O projeto está hospedado no GitHub Pages:
-**[🔗 Clique aqui para testar!](https://brunobb88.github.io/buscador-cep/)**
+**[🔗 Clique aqui para testar!](https://brunobb88.github.io/Buscador-CEP/)**
 
 ## 📦 Como Executar Localmente
 
 ```bash
 # Clone o repositório
-git clone https://github.com/brunobb88/buscador-cep.git
+git clone https://github.com/brunobb88/Buscador-CEP.git
 
 # Abra o arquivo index.html em seu navegador
